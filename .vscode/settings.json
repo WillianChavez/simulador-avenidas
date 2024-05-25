@@ -51,5 +51,10 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "simulador-avenidas.sln"
+    "dotnet.defaultSolution": "simulador-avenidas.sln",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#0A3335",
+        "titleBar.activeBackground": "#0E474A",
+        "titleBar.activeForeground": "#F2FCFC"
+    }
 }
